@@ -1,0 +1,5 @@
+=== Optimization Worker for Pure sCO2 (PID: 10544) ===
+[07:26:09] [Pure sCO2] Starting worker on PID 10544 | Grid N=40 | MUSCL=True (van_leer)
+[07:26:09] [Pure sCO2] Components: ['CO2'] | Mole Fractions: [1.0] | P_L = 83.80 bar
+[07:26:10] [Pure sCO2] Fluid Critical Point: T_crit = 304.13 K, P_crit = 73.77 bar
+[07:26:10] [Pure sCO2] Bootstrapping initial state via coarse grid-ladder at (r=0.50, frac=0.35): N=10 -> N=20 -> N=40...
